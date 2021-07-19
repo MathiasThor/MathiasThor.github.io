@@ -4,6 +4,19 @@ permalink: /events/
 title: Events
 description: Events related to me and my research.
 ---
+<h3 class="year">2021</h3>
+<h3 style="margin-bottom:0;">Interview with Fyens Stiftidende</h3>
+<h5 style="margin-top:0;">SDU, Odense, Denmark • 1.4.2020</h5>
+The interview can be found [here](https://fyens.dk/artikel/mathias-kan-styre-g%C3%A5ende-robotter-han-h%C3%A5ber-de-bliver-s%C3%A5-gode-at-de-kan-hj%C3%A6lpe-mennesker-med-gangbesv%C3%A6r){:target="_blank"}.
+<img class="center" height="100%" src="{{ site.baseurl }}/assets/img/fyens.png" alt="" title="example image"/>
+
+<h3 class="year">2020</h3>
+
+<h3 style="margin-bottom:0;">Interview with the Ny Viden Magazine</h3>
+<h5 style="margin-top:0;">SDU, Odense, Denmark • 1.4.2020</h5>
+Answered a series of questions in the [Ny Viden magazine](https://www.sdu.dk/da/nyheder/nyviden/gaestehjoernet/mathias-thor){:target="_blank"}.
+<img class="center" height="100%" src="{{ site.baseurl }}/assets/img/gaeste.jpg" alt="" title="example image"/>
+
 <h3 class="year">2019</h3>
 
 <h3 style="margin-bottom:0;">Guest talks on Robotics, Neural Control and Reinforcement Learning</h3>

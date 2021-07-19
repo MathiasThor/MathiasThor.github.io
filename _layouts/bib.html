@@ -87,6 +87,9 @@
   {% if entry.journalpaper %}
     <em style="color:#17A589"> &#160; <i class="fas fa-book"></i> {{ entry.journalpaper }} </em>
   {% endif %}
+  {% if entry.preprint %}
+    <em style="color:#F48679"> &#160; <i class="fas fa-print"></i> {{ entry.preprint }} </em>
+  {% endif %}
   {% if entry.conferencepaper %}
     <em style="color:#AF7AC5"> &#160; <i class="fas fa-users"></i> {{ entry.conferencepaper }} </em>
   {% endif %}
